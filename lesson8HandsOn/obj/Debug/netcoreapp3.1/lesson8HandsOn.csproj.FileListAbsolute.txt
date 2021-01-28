@@ -1,0 +1,13 @@
+C:\Users\Matt\source\repos\lesson8HandsOn\lesson8HandsOn\bin\Debug\netcoreapp3.1\lesson8HandsOn.exe
+C:\Users\Matt\source\repos\lesson8HandsOn\lesson8HandsOn\bin\Debug\netcoreapp3.1\lesson8HandsOn.deps.json
+C:\Users\Matt\source\repos\lesson8HandsOn\lesson8HandsOn\bin\Debug\netcoreapp3.1\lesson8HandsOn.runtimeconfig.json
+C:\Users\Matt\source\repos\lesson8HandsOn\lesson8HandsOn\bin\Debug\netcoreapp3.1\lesson8HandsOn.runtimeconfig.dev.json
+C:\Users\Matt\source\repos\lesson8HandsOn\lesson8HandsOn\bin\Debug\netcoreapp3.1\lesson8HandsOn.dll
+C:\Users\Matt\source\repos\lesson8HandsOn\lesson8HandsOn\bin\Debug\netcoreapp3.1\lesson8HandsOn.pdb
+C:\Users\Matt\source\repos\lesson8HandsOn\lesson8HandsOn\obj\Debug\netcoreapp3.1\lesson8HandsOn.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\lesson8HandsOn\lesson8HandsOn\obj\Debug\netcoreapp3.1\lesson8HandsOn.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\lesson8HandsOn\lesson8HandsOn\obj\Debug\netcoreapp3.1\lesson8HandsOn.AssemblyInfo.cs
+C:\Users\Matt\source\repos\lesson8HandsOn\lesson8HandsOn\obj\Debug\netcoreapp3.1\lesson8HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\lesson8HandsOn\lesson8HandsOn\obj\Debug\netcoreapp3.1\lesson8HandsOn.dll
+C:\Users\Matt\source\repos\lesson8HandsOn\lesson8HandsOn\obj\Debug\netcoreapp3.1\lesson8HandsOn.pdb
+C:\Users\Matt\source\repos\lesson8HandsOn\lesson8HandsOn\obj\Debug\netcoreapp3.1\lesson8HandsOn.genruntimeconfig.cache
